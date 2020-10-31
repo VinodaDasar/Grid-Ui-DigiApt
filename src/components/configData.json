@@ -1,0 +1,15 @@
+{
+    "options":[
+        {"key":1, "text":"MEDICARE", "value": "MEDICARE"},
+        {"key":2, "text":"COMMERCIAL", "value": "COMMERCIAL"},
+        {"key":3, "text":"EXCHANGE", "value": "EXCHANGE"},
+        {"key":4, "text":"MEDICAID", "value": "MEDICAID"}
+    ],
+    "tableRow":[
+        {"lob":"MEDICARE", "step":"In Review", "dueDate": "MEDICARE"},
+        {"lob":"COMMERCIAL","step":"In Review","dueDate":"09/04/2020 @ 9:00 PM"},
+        {"lob":"EXCHANGE","step":"In Review","dueDate":"09/04/2020 @ 9:30 AM"},
+        {"lob":"MEDICAID","step":"In Review","dueDate":"No due date"}
+
+    ]
+}
