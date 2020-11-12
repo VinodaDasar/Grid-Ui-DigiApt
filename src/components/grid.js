@@ -284,7 +284,8 @@ class Home extends Component {
                         </Table.Cell>
                         <Table.Cell className="taskName">
                           <div class="ui taskName">
-                    <span class="dottedUnderline">{row.email}</span>
+                    <span  className="dottedUnderline">{row.email}</span>
+                    
                           </div>
                         </Table.Cell>
                         <Table.Cell>

@@ -14,8 +14,10 @@
         color: #2055B5;
     }
     .dottedUnderline{
-        border-bottom: 1px dotted;
-    }
+        border-width: 0px; 
+  border-style: solid;
+  border-bottom: dotted
+      }
     .ui.attached.tabular.menu {
         background-color: #E5E5E5;
     }
